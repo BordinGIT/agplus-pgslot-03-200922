@@ -1,0 +1,17 @@
+{
+  "name": "agplus-pgslot-03-200922",
+  "main": "./",
+  "version": "1.0.0",
+  "description": "Two fingers scroll moves through time instead of space xxx as well",
+  "keywords": [
+    "scroll",
+    "time",
+    "pgslot"
+  ],
+  "repository": "https://github.com/BordinGIT/agplus-pgslot-03-200922",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
